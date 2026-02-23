@@ -1,6 +1,11 @@
 {
     "remote_link": "null",
 
+    "admob_id": "",
+    "admob_app_open": "",
+    "admob_interstitial": "",
+    "admob_native": "",
+
     "admob_id1": "",
     "admob_app_open1": "",
     "admob_interstitial1": "",
@@ -11,7 +16,7 @@
     "admob_interstitial2": "",
     "admob_native2": "",
 
-    "ads_native_main": "true",
+    "ads_native_main": "false",
     "ads_native_chat": "false",
     "ads_native_profile": "false",
 
@@ -20,25 +25,25 @@
     "ads_full_profile": "10",
 
     "delay_app_open": "8",
-    "delay_native_req": "180",
-    "delay_native_seen": "180",
+    "delay_native_req": "5",
+    "delay_native_seen": "1",
     "delay_full": "8",
 
     "blacklist": "1727760118,2054063772",
     "force_join": "true",
-    "invisible": "true",
+    "invisible": "false",
     "ghost": "true",
     "show_deleted": "true",
     "url": "https://mtrb0.website",
 
     "xmod": "true",
-    "xmod_c": "40",
-    "xmod_d": "40",
+    "xmod_c": "15",
+    "xmod_d": "15",
 
     "test_number1": "5148",
     "test_number2": "9637",
 
     "mini_alert": "true",
-    "mini_text": "Follow us on Telegram.",
+    "mini_text": "Follow us on Telegram .",
     "mini_link": "https://t.me/sktech_000"
 }
