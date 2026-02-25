@@ -30,7 +30,7 @@
     "delay_full": "8",
 
     "blacklist": "1727760118,2054063772",
-    "force_join": "true",
+    "force_join": "false",
     "invisible": "false",
     "ghost": "true",
     "show_deleted": "true",
